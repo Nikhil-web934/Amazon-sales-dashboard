@@ -57,5 +57,5 @@ The Power BI dashboard includes the following visual insights:
 ## 📁 Files Included
 
 - `Amazon sales dashboard.pbit` – Power BI dashboard file
-- `Amazon sales dashboard screen shot.png` – Screen shot link [https://github.com/Nikhil-web934/Amazon-sales-dashboard/blob/main/Amazon%20sales%20dashboard%20screen%20shot.png]
+- `Amazon sales dashboard screen shot.png` – Screen shot link https://github.com/Nikhil-web934/Amazon-sales-dashboard/blob/main/Amazon%20sales%20dashboard%20screen%20shot.png
 
