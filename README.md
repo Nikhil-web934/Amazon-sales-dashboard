@@ -56,7 +56,7 @@ The Power BI dashboard includes the following visual insights:
 
 ## 📁 Files Included
 
-- `Amazon Sales Dashboard.pbix` – Power BI dashboard file
+- `Amazon sales dashboard.pbit` – Power BI dashboard file
 - `Amazon Retail Dataset.xlsx` – Raw dataset used for analysis
 - `README.md` – Project documentation
 
